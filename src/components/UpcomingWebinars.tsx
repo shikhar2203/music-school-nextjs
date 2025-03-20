@@ -1,7 +1,6 @@
 'use client'
 import Link from 'next/link'
 import { HoverEffect } from "./ui/card-hover-effect";
-import { title } from 'process';
 
 function UpcomingWebinars() {
 
