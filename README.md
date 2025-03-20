@@ -4,7 +4,7 @@ This is a modern, interactive music school website built with Next.js 15 and Ace
 
 ## 🌐 Live Demo
 
-Check out the live version of the project: [Music School by Shikhar](https://music-school-shikhar.netlify.app)
+Check out the live version of the project: [https://music-school-shikhar.netlify.app](https://music-school-shikhar.netlify.app)
 
 ## ✨ Features
 
