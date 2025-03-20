@@ -2,6 +2,10 @@
 
 This is a modern, interactive music school website built with Next.js 15 and Aceternity UI components. The project was developed to gain familiarity with the Next.js framework while creating an aesthetically pleasing music education platform.
 
+## 🔗 Live Demo
+
+Website: [https://music-school-shikhar.netlify.app](https://music-school-shikhar.netlify.app)
+
 ## ✨ Features
 
 - **Modern UI/UX**: Built with Aceternity UI components and Tailwind CSS for a stunning visual experience
@@ -108,5 +112,4 @@ This project was built to understand and become familiar with the Next.js framew
 
 
 ## 👨‍💻 Created By
-
 Shikhar
